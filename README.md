@@ -39,4 +39,4 @@ Il lavoro è stato strutturato in tre moduli analitici (tab), ognuno progettato 
 
 ---
 **Formazione:** Progetto certificato da **ProfessionAI** e **Alteredu**.
-**Autore:** [Massimiliano Izzo](www.linkedin.com) – BI & Data Storytelling Specialist
+**Autore:** [Massimiliano Izzo](www.linkedin.com/in/massimilianoizzo) – BI & Data Storytelling Specialist
